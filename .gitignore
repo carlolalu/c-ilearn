@@ -1,0 +1,7 @@
+*~
+# lines balnk or with a cancelletto are ignored. Cool yeah?
+# you can specify a directory with  a "/" and then the directory
+# you can avoid recursivity with a "/" before
+# you can use regex
+# you can use "!" to negate a path
+
