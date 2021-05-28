@@ -4,4 +4,4 @@
 # you can avoid recursivity with a "/" before
 # you can use regex
 # you can use "!" to negate a path
-
+*.o
